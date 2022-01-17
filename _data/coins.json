@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627507352/images/pafutcofdqwh2jgqfjb2.png",
+    "name": "Bitcoins",
+    "abbr": "BTC",
+    "address": "bc1qjs4nhf7vqk2srsztjh0pv8uajdhfv364l0fjtl"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627507731/images/voswni1z3jglcdroc8kl.png",
+    "name": "Tether",
+    "abbr": "USDT",
+    "address": "0x00a33153FB46d13D5A6eE826bC0ffdCAF6EC9161"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627507906/images/qzsqjvsx783tnsfqp0ii.png",
+    "name": "Ethereum",
+    "abbr": "ETH",
+    "address": "0x00a33153FB46d13D5A6eE826bC0ffdCAF6EC9161"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508091/images/svqnsenifz7isf5weo0z.png",
+    "name": "Dogecoin",
+    "abbr": "DOGE",
+    "address": "DPNLmuR9obWeJr4yjVthMxjEnYkHZtzrn5"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508258/images/zmudz0jc8zucxwmkf1p9.png",
+    "name": "Binance Coin",
+    "abbr": "BNB",
+    "address": "bnb1tmlcz44dm3adcphscx3f8rfngm74unkexcv0xn"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508368/images/kopz27hxmrebtutcg0d6.png",
+    "name": "Cardano",
+    "abbr": "ADA",
+    "address": "addr1q9avyrj3mtl3g346z44a39mscefdrq0mccnxmcfthkdmzlr6cg89rkhlz3rt59ttmzthp3jj6xqlh33xdhsjh0vmk97qgksh33"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508659/images/cvfca5nrer5pxibtbwsg.png",
+    "name": "XRP",
+    "abbr": "XRP",
+    "address": "rhFSvF7buq4EhAeX6HNHGzmBSCDhvBQUZk"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508809/images/jncqusobc7vs3zn3zbww.png",
+    "name": "Polkadot",
+    "abbr": "DOT",
+    "address": "1zgyUUgDCaXAFxYVj5MHVu1j5gRto8pinKqJobd9FMhU9qo"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508926/images/ljxvrl4tsuzyzzbyxuo7.png",
+    "name": "Uniswap",
+    "abbr": "UNI",
+    "address": "0x00a33153FB46d13D5A6eE826bC0ffdCAF6EC9161"
+  },
+  {
+    "icon": "http://res.cloudinary.com/ba-consulting/image/upload/v1627509338/images/fujyseo8zphkcr1q4bwg.png",
+    "name": "USD Coin",
+    "abbr": "USDC",
+    "address": "0x00a33153FB46d13D5A6eE826bC0ffdCAF6EC9161"
+  }
+]

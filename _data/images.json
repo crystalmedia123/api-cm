@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "6101ca98fa03c30015535830",
+    "name": "BTC",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627507352/images/pafutcofdqwh2jgqfjb2.png"
+  },
+  {
+    "_id": "6101cc0ffa03c30015535831",
+    "name": "USDT",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627507731/images/voswni1z3jglcdroc8kl.png"
+  },
+  {
+    "_id": "6101ccc2fa03c30015535832",
+    "name": "ETH",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627507906/images/qzsqjvsx783tnsfqp0ii.png"
+  },
+  {
+    "_id": "6101cd7bfa03c30015535833",
+    "name": "DOGE",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508091/images/svqnsenifz7isf5weo0z.png"
+  },
+  {
+    "_id": "6101ce21fa03c30015535834",
+    "name": "BNB",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508258/images/zmudz0jc8zucxwmkf1p9.png"
+  },
+  {
+    "_id": "6101ce90fa03c30015535835",
+    "name": "ADA",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508368/images/kopz27hxmrebtutcg0d6.png"
+  },
+  {
+    "_id": "6101cfb3fa03c30015535836",
+    "name": "XRP",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508659/images/cvfca5nrer5pxibtbwsg.png"
+  },
+  {
+    "_id": "6101d049fa03c30015535837",
+    "name": "DOT",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508809/images/jncqusobc7vs3zn3zbww.png"
+  },
+  {
+    "_id": "6101d0befa03c30015535838",
+    "name": "UNI",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627508926/images/ljxvrl4tsuzyzzbyxuo7.png"
+  },
+  {
+    "_id": "6101d25afa03c30015535839",
+    "name": "USDC",
+    "image": "http://res.cloudinary.com/ba-consulting/image/upload/v1627509338/images/fujyseo8zphkcr1q4bwg.png"
+  }
+]
